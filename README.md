@@ -1,3 +1,1 @@
-# Super-Resolution-Hyperpolarized-MRI-Master-thesis
-
-hey
+# Super-Resolution Hyperpolarized MRI, AU Engineering Master thesis.
